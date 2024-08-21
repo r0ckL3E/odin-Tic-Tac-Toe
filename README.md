@@ -1,1 +1,1 @@
-# odin-Tic-Tac-Toe
+In this project, I will apply concepts such as Factory Functions and the Module Pattern.
